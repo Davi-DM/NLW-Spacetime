@@ -96,8 +96,19 @@ nav {
   font-size: 1.2rem;
   color: #bebebf;
   line-height: 28px;
+  
+  text-align: justify;
 }
 
+.facebook-link {
+  font-size: 1.2rem;
+  color: #bebebf;
+  
+  box-sizing: border-box;
+
+
+  text-decoration: none;
+}
 aside {
   grid-area: profile;
 
